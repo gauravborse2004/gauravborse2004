@@ -2,7 +2,7 @@
  <h3 align="center">A Passionate Frontend Developer</h3>
  
  ## 💫 About Me:
- I'm a frontend developer passionate about creating interactive and user-friendly web applications using modern technologies like HTML5, CSS3, JavaScript,  Bootstrap, React.
+ I'm a frontend developer passionate about creating interactive and user-friendly web applications using modern technologies like HTML5, CSS3, JavaScript, PHP  Bootstrap, React mySQL.
  
  - 🔭 I’m currently a **third-year BTech student**  
  - 🌱 I’m currently exploring **advanced React concepts**  
@@ -23,15 +23,15 @@
  |-------------|-------------|
  | [College Review Sentimental Analysis](https://github.com/gauravborse2004/College-Review-Sentimental-Analysis-using-ML) | Determines college review sentiments based on sentimental score of reviews. |
  | [Spam Email Classification](https://github.com/gauravborse2004/Spam-Mail-Classification-using-NLP-and-ML-Gaurav-S-Borse) | Classifying email as spam or not spam using NLP algorithm. |
- | [Amazon Clone](hhttps://github.com/gauravborse2004/Amazon-Clone-using-HTML-CSS) | Created Amazon Clone website using HTML & CSS. |
+ | [Amazon Clone](https://github.com/gauravborse2004/Amazon-Clone-using-HTML-CSS) | Created Amazon Clone website using HTML & CSS. |
  
  ## GitHub Stats
  
  <div align="center">
  
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=thejuskrishnan&show_icons=true&&theme=algolia&rank_icon=github)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thejuskrishnan&layout=compact&theme=algolia)](https://github.com/thejuskrishnan/github-readme-stats)
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thejuskrishnan&theme=algolia&card_width=495)](https://git.io/streak-stats)
+ ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravborse2004&show_icons=true&&theme=algolia&rank_icon=github)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravborse2004&layout=compact&theme=algolia)](https://github.com/thejuskrishnan/github-readme-stats)
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gauravborse2004&theme=algolia&card_width=495)](https://git.io/streak-stats)
  
  </div>
  
