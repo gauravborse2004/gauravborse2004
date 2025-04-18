@@ -21,8 +21,8 @@
  
  | Project Name | Description |
  |-------------|-------------|
- | [IMACT-BTECH-MINI-PROJECT](https://github.com/THEJUSKRISHNAN/IMPACT-BTECH-MINI-PROJECT.git) | A predictive model using FastAPI and XGBoost to assess landslide risks based on environmental factors. |
- | [Nike Landing Page](https://github.com/THEJUSKRISHNAN/nike-landing-page.git) | A visually appealing Nike landing page built using React and Tailwind CSS. |
+ | [College Review Sentimental Analysis]([https://github.com/gauravborse2004/College-Review-Sentimental-Analysis-using-ML]) | Determines college review sentiments based on sentimental score of reviews. |
+ | [Nike Landing Page](https://github.com/gauravborse2004/Spam-Mail-Classification-using-NLP-and-ML-Gaurav-S-Borse) | Classifying email as spam or not spam using NLP algorithm. |
  | [Smile Cart](https://github.com/THEJUSKRISHNAN/smileCart.git) | A fully responsive e-commerce website using React and Tailwind CSS. |
  | [Password Generator](https://github.com/THEJUSKRISHNAN/passwordgenerator-react.git) | A secure password generator built with React. |
  
