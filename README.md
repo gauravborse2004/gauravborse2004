@@ -2,7 +2,7 @@
  <h3 align="center">A Passionate Frontend Developer</h3>
  
  ## 💫 About Me:
- I'm a frontend developer passionate about creating interactive and user-friendly web applications using modern technologies like Bootstrap, React and Tailwind CSS.
+ I'm a frontend developer passionate about creating interactive and user-friendly web applications using modern technologies like HTML5, CSS3, JavaScript,  Bootstrap, React.
  
  - 🔭 I’m currently a **third-year BTech student**  
  - 🌱 I’m currently exploring **advanced React concepts**  
@@ -22,9 +22,8 @@
  | Project Name | Description |
  |-------------|-------------|
  | [College Review Sentimental Analysis](https://github.com/gauravborse2004/College-Review-Sentimental-Analysis-using-ML) | Determines college review sentiments based on sentimental score of reviews. |
- | [Nike Landing Page](https://github.com/gauravborse2004/Spam-Mail-Classification-using-NLP-and-ML-Gaurav-S-Borse) | Classifying email as spam or not spam using NLP algorithm. |
- | [Smile Cart](https://github.com/THEJUSKRISHNAN/smileCart.git) | A fully responsive e-commerce website using React and Tailwind CSS. |
- | [Password Generator](https://github.com/THEJUSKRISHNAN/passwordgenerator-react.git) | A secure password generator built with React. |
+ | [Spam Email Classification](https://github.com/gauravborse2004/Spam-Mail-Classification-using-NLP-and-ML-Gaurav-S-Borse) | Classifying email as spam or not spam using NLP algorithm. |
+ | [Amazon Clone](hhttps://github.com/gauravborse2004/Amazon-Clone-using-HTML-CSS) | Created Amazon Clone website using HTML & CSS. |
  
  ## GitHub Stats
  
