@@ -25,8 +25,7 @@
  | [Spam Email Classification](https://github.com/gauravborse2004/Spam-Mail-Classification-using-NLP-and-ML-Gaurav-S-Borse) | Classifying email as spam or not spam using NLP algorithm. |
  | [Amazon Clone](https://github.com/gauravborse2004/Amazon-Clone-using-HTML-CSS) | Created Amazon Clone website using HTML & CSS. |
  | [Student Management System](https://github.com/gauravborse2004/Student-Management-System) | Smart system with features of Student, Faculty, Events, Gallery, Notification and Bonafide. |
- | [Smart Application Tracking System with resume matching](https://github.com/gauravborse2004/ats) | A platform that evaluates resumes against company-specific 
-requirements.. |
+ | [Smart Application Tracking System with resume matching](https://github.com/gauravborse2004/ats) | A platform that evaluates resumes against company-specific requirements.. |
  
  ## GitHub Stats
  
