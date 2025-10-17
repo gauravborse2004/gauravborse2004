@@ -9,6 +9,7 @@
  - ⚡ **Love building sleek and responsive web interfaces** 
  
  ## 💻 Tech Stack:
+ ![Python](https://img.shields.io/badge/python-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
  ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=white).
