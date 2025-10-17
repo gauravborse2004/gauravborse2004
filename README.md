@@ -8,12 +8,12 @@
 I’m a **Final Year B.Tech Student** specializing in **Web Development and Data Analytics**.  
 I love building **interactive, dynamic, and user-focused** web applications using the **MERN stack**, while also exploring the **data-driven side** of development with Python and ML.
 
-💡 **A blend of creativity, logic, and data!**
+💡 **Where creativity meets logic and data-driven development.**  
 
-- 🔭 Currently working on **Smart ATS System & Data-Driven Projects**  
-- 🌱 Exploring **Advanced React.js, Node.js Optimization, and Data Visualization**  
-- 💬 Ask me about **Frontend Development, APIs, or Python Analytics**  
-- ⚡ Fun fact: I turn caffeine ☕ into clean, responsive, and scalable code!
+🔭 Currently building **Smart ATS systems** and **intelligent web solutions** using MERN & Python.  
+🌱 Deepening my skills in **Advanced React.js**, **Node.js performance**, and **Data Visualization with Python**.  
+💬 Always excited to discuss **Frontend Engineering**, **APIs**, and **AI-powered data analysis**.  
+⚡ Fun fact: I believe **a perfect UI is 90% logic and 10% coffee ☕!**
 
 ---
 
