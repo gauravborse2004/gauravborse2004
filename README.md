@@ -4,7 +4,7 @@
  ## 💫 About Me:
  I'm a frontend developer passionate about creating interactive and user-friendly web applications using modern technologies like HTML5, CSS3, JavaScript, PHP  Bootstrap, React mySQL.
  
- - 🔭 I’m currently a **third-year BTech student**  
+ - 🔭 I’m currently a **Final Year BTech student**  
  - 🌱 I’m currently exploring **advanced React concepts**  
  - ⚡ **Love building sleek and responsive web interfaces** 
  
