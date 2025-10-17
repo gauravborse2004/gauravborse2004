@@ -18,7 +18,7 @@
  ![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=white)
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white)
  ![mySQL](https://img.shields.io/badge/mysql-%2320232a.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![Node.Js](https://img.shields.io/badge/nodejs-%2320232a.svg?style=for-the-badge&logo=nodejs&logoColor=white)
+ ![Node.Js](https://img.shields.io/badge/nodejs-%2320232a.svg?style=for-the-badge&logo=node&logoColor=white)
  ![MongoDB](https://img.shields.io/badge/mongodb-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  
  ## 🚀 Projects
